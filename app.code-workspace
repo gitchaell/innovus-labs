@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "exercise-1"
+		},
+		{
+			"path": "exercise-2"
+		},
+		{
+			"path": "exercise-3"
+		}
+	],
+	"settings": {
+		"prettier.configPath": "./.prettierrc.mjs"
+	}
+}
